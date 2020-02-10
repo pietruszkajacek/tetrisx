@@ -1,2 +1,2 @@
 # tetrisx
-TetrisX
+TetrisX - simple tetris game (Delphi)
